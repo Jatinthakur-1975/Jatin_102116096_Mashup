@@ -23,4 +23,4 @@ Flask application for above code that mails the audio file to input email id.
 
 ![image](Images/Inputs.png)
 ![image](Images/Mail_sent.png)
-![image](https://github.com/kkamal2003/mashup/assets/126082752/2173129e-8184-45ad-aaf2-cb2e4eaf7872)
+![image](Images/Mail_recieved.jpg)
